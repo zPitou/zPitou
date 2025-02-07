@@ -1,5 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=zPitou&color=blue)
-
 # 👋 Welcome to my GitHub profile!
 
 Hey there! I'm **Nicolas** (a.k.a **zPitou**), an aspiring developer who loves to explore new technologies and tackle exciting challenges. I'm constantly learning and building to improve my skills.
