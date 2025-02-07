@@ -4,15 +4,17 @@ Hey there! I'm **Nicolas** (a.k.a **zPitou**), an aspiring developer who loves t
 
 Happy coding! 🚀
 
+---
+
 ## 📌 About Me  
 - 🎯 Constantly exploring new technologies and refining my expertise.
 
----
+
 
 ## 🛠️ Technologies & Tools  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -22,9 +24,6 @@ Happy coding! 🚀
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPitou&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>  
-
----
-
 
 ## 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-aragão-gonçalves)  
@@ -36,4 +35,4 @@ Happy coding! 🚀
 🎯 **"Always learning and evolving!"** 🚀  
 Thanks for visiting my profile! Feel free to explore my projects.
 
-![cute-cat-cat-cute](https://github.com/user-attachments/assets/d74ce4f6-3b7f-4b8c-b243-91c0ce2f84f8)
+![cute-cat-cat-cute](https://github.com/user-attachments/assets/c96b2d25-87e7-4adf-ac7b-c1afeec83fb5)
